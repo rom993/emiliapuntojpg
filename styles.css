@@ -1,0 +1,17 @@
+body {
+    background-color: #E6E6FA;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: tomato;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+
+p {
+  color:  tomato;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 900;
+}
